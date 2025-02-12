@@ -30,3 +30,4 @@ Uniqlo produces reliable, clean, yet affordable clothes for the average person. 
 
 
 	
+![](./RequirementModel.jpg)
