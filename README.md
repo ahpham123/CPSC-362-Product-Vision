@@ -69,4 +69,4 @@ Scalability for adding future clothing release
 Database and website format should easily accommodate adding new clothing
 
 	
-![](./Uniqlo Diagram.jpg)
+![](./RequirementModel.jpg)
